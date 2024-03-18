@@ -19,7 +19,6 @@
 ----
 {"address":{"code":50948,"city":"Gimhae"},"name":"academy"}
 ----
-+
 
-
-
+---
+link:../json_in_java.adoc[Json in Java]

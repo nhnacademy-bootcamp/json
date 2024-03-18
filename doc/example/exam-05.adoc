@@ -8,25 +8,24 @@
 ----
 include::../../src/main/java/example/Exam05.java[lines=1..7;25..,indent=0]
 ----
-+
 2. String type의 value를 추가하고, 결과를 확인한다.
 +
 [source,java]
 ----
 include::../../src/main/java/example/Exam05.java[lines=9..12,indent=0]
 ----
-+
 3. customer object에서 "name"의 value를 가져와서 data type을 확인하고 value를 출력한다.
 +
 [source,java]
 ----
 include::../../src/main/java/example/Exam05.java[lines=14..16,indent=0]
 ----
-+
 4. customer object에서 "age"의 value를 가져와서 data type을 확인하고 value를 출력한다.
 +
 [source,java]
 ----
 include::../../src/main/java/example/Exam05.java[lines=18..20,indent=0]
 ----
-+
+
+---
+link:../json_in_java.adoc[Json in Java]

@@ -20,3 +20,6 @@ Model: K2
 Power: 10
 Flyable: false
 ----
+
+---
+link:../json_in_java.adoc[Json in Java]

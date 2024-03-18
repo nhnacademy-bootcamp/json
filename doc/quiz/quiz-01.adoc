@@ -1,6 +1,6 @@
 == Quiz-01. Exam-01을 참고하여 아래와 같은 결과가 출력되도록 수정하라.
 
-{empty} + 
+{empty} +
 
 1. link:../example/exam-01.adoc[Exam-01]을 참고하라.
 
@@ -10,5 +10,6 @@
 ----
 {"address":{"code":13487,"city":"Seongnam"},"name":"nhn"}
 ----
-+
 
+---
+link:../json_in_java.adoc[Json in Java]

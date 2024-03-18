@@ -16,3 +16,6 @@ include::../../src/main/java/quiz/Quiz08.java[lines=25..]
 ----
 1은 2번째에 위치합니다.
 ----
+
+---
+link:../json_in_java.adoc[Json in Java]

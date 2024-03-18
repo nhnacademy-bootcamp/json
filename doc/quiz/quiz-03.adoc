@@ -1,6 +1,6 @@
 == Quiz-03. Person class를 수정하여 더 많은 정보를 추가하라.
 
-{empty} + 
+{empty} +
 
 1. link:../example/exam-03.adoc[Exam-03]을 참고하라.
 
@@ -10,5 +10,6 @@
 ----
 {"address":{"code":13487,"city":"Seongnam"},"name":"nhn"}
 ----
-+
 
+---
+link:../json_in_java.adoc[Json in Java]

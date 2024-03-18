@@ -11,18 +11,18 @@ include::../../src/main/java/example/Exam07.java[lines=8..9,indent=0]
 ...
 include::../../src/main/java/example/Exam07.java[lines=17..21,indent=0]
 ----
-+
 3. 코드에서 age가 int type이지만, String type으로 요청해 보자.
 +
 [source,java]
 ----
 include::../../src/main/java/example/Exam07.java[lines=16..17,indent=0]
 ----
-+
 4. 발생한 Exception의 메시지를 확인한다.
 +
 [source,console]
 ----
 org.json.JSONException: JSONObject["age"] is not a string (class java.lang.Integer : 20).
 ----
-+
+
+---
+link:../json_in_java.adoc[Json in Java]
