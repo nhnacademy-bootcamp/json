@@ -379,7 +379,7 @@ s|JSONArray(String source)**
 
 [source,java]
 ----
-JSONArray jsonArray = new JSONArray(new int[align=center,width=600]{1,2,3});
+JSONArray jsonArray = new JSONArray(new int[]{1,2,3});
 ----
 
 link:quiz/quiz-06.adoc[Quiz-06. 주어진 형태의 JSONObject를 생성하라]

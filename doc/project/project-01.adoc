@@ -22,6 +22,47 @@
 
 {empty} +
 
+=== 명령어
+
+* 사용자 관리
+** 추가
+*** 형식
+user add <id> <name>
+*** 보기
++
+[source,console]
+----
+command : user add 0002 tiger
+
+사용자 tiger가 추가되었습니다.
+----
+** 삭제
+*** 형식
+user del <id>
+*** 보기
++
+[source,console]
+----
+command : user del 0002
+
+사용자 tiger가 삭제 되었습니다.
+----
+** 목록
+*** 형식
+user list
+*** 보기
++
+[source,console]
+----
+command : user list
+
+ID   Name
+0001 xtra
+0002 tiger
+0003 bear
+----
+
+
 === 요구 사항
 1. 구성 요소별로 class를 정의하라.
 2. 생성된 데이터는 JSON 문자열로 파일에 저장한다.
