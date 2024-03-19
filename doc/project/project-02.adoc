@@ -84,3 +84,17 @@ ID    NAME
 ** 변경 이력에는 시간과 변경 내용이 포함된다.
 ** 변경 내용은 변경된 구성 요소를 구분할 수 있도록 한다.
 
+=== 실행 파일 만들기
+
+* 왼쪽 아래 "MAVEN"에서 Lifecycle을 열고,
+** clean
+** compile
+** package를 순서대로 실행
+* target에 recorder-1.0-SNAPSHOT.jar 생성됨
+* 실행
++
+[source,console]
+----
+java -jar recorder-1.0-SNAPSHOT.jar -a --user -i 1234 -n xtra
+----
+
